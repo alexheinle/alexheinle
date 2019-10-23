@@ -1,7 +1,7 @@
 ---
 title: "Project 1"
 date: 2019-02-07T12:37:00.000Z
-image: /images/self.jpg
+image: /images/butler.jpg
 tags:
   - Cecil
   - SSG
